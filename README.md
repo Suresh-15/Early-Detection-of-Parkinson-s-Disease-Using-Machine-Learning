@@ -1,0 +1,2 @@
+# Early-Detection-of-Parkinson-s-Disease-Using-Machine-Learning
+PD is a neurodegenerative disorder affecting people over the age of 50 years. PD can be treated through early detection. Research has been carried out on the MDVP audio data of 30 PWP &amp; healthy people during training of 5 ML models. Comparison of results of classification by SVM, KNN, Logistic Regression, Random Forest &amp; Naive Bayes is performed.
